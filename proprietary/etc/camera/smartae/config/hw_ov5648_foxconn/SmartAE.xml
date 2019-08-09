@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <AEConfig>
     <FaceAE>
 	<!--face AE parameters-->
-    <minArea>4000</minArea>                                                     <!--faceAEÆô¶¯µÄ×îÐ¡ÈËÁ³Ãæ»ý£¨³¤X¿í£©-->
-    <darkThreshold>70</darkThreshold>                                           <!--ÈËÁ³ÁÁ¶ÈÏÂÏÞ£¬µ±ÈËÁ³ÁÁ¶ÈÐ¡ÓÚ´ËÖµ£¬»áÌá¸ßÈËÁ³ÁÁ¶È-->
-    <brightThreshold>150</brightThreshold>                                      <!--ÈËÁ³ÁÁ¶ÈÉÏÏÞ£¬µ±ÈËÁ³ÁÁ¶È´óÓÚ´ËÖµ£¬»á½µµÍÈËÁ³ÁÁ¶È-->
-    <verydarkThreshold>40</verydarkThreshold>                                   <!--µÍÓÚ´ËÁÁ¶ÈÖµ»á¼Ó¿ìtargetµ÷Õûstep,step»á´Ó4±äÎª6-->
-    <verybrightThreshold>180</verybrightThreshold>                              <!--¸ßÓÚ´ËÁÁ¶ÈÖµ»á¼Ó¿ìtargetµ÷Õûstep-->
-    <lowTarget_MAX>140</lowTarget_MAX>                                          <!--AE low target ×î´óÖµ-->
-    <highTarget_MAX>140</highTarget_MAX>                                        <!--AE high target ×î´óÖµ-->
-    <lowTarget_MIN>15</lowTarget_MIN>                                           <!--AE low target ×îÐ¡Öµ-->
-    <highTarget_MIN>15</highTarget_MIN>                                         <!--AE high target ×îÐ¡Öµ,high targetÃ»ÓÐÓÃµ½»¹ÊÇÄ¬ÈÏÖµ52-->
-    <overExpoThreshold>100</overExpoThreshold>                                   <!--³¡¾°ÖÐ¹ýÆØ±ÈÀýÉÏÏÞ£¬¸ßÓÚ´ËÖµ£¬targetÍ£Ö¹µ÷Õû-->
-    <underExpoThreshold>100</underExpoThreshold>                                 <!--³¡¾°ÖÐÇ·ÆØ±ÈÀýÉÏÏÞ£¬¸ßÓÚ´ËÖµ£¬targetÍ£Ö¹µ÷Õû-->
+    <minArea>4000</minArea>                                                     <!--faceAEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½ï¿½-->
+    <darkThreshold>70</darkThreshold>                                           <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½Ú´ï¿½Öµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½-->
+    <brightThreshold>150</brightThreshold>                                      <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È´ï¿½ï¿½Ú´ï¿½Öµï¿½ï¿½ï¿½á½µï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½-->
+    <verydarkThreshold>40</verydarkThreshold>                                   <!--ï¿½ï¿½ï¿½Ú´ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½Ó¿ï¿½targetï¿½ï¿½ï¿½ï¿½step,stepï¿½ï¿½ï¿½4ï¿½ï¿½Îª6-->
+    <verybrightThreshold>180</verybrightThreshold>                              <!--ï¿½ï¿½ï¿½Ú´ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½Ó¿ï¿½targetï¿½ï¿½ï¿½ï¿½step-->
+    <lowTarget_MAX>140</lowTarget_MAX>                                          <!--AE low target ï¿½ï¿½ï¿½Öµ-->
+    <highTarget_MAX>140</highTarget_MAX>                                        <!--AE high target ï¿½ï¿½ï¿½Öµ-->
+    <lowTarget_MIN>15</lowTarget_MIN>                                           <!--AE low target ï¿½ï¿½Ð¡Öµ-->
+    <highTarget_MIN>15</highTarget_MIN>                                         <!--AE high target ï¿½ï¿½Ð¡Öµ,high targetÃ»ï¿½ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½ï¿½Ä¬ï¿½ï¿½Öµ52-->
+    <overExpoThreshold>100</overExpoThreshold>                                   <!--ï¿½ï¿½ï¿½ï¿½ï¿½Ð¹ï¿½ï¿½Ø±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ£ï¿½ï¿½ï¿½ï¿½Ú´ï¿½Öµï¿½ï¿½targetÍ£Ö¹ï¿½ï¿½ï¿½ï¿½-->
+    <underExpoThreshold>100</underExpoThreshold>                                 <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç·ï¿½Ø±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ£ï¿½ï¿½ï¿½ï¿½Ú´ï¿½Öµï¿½ï¿½targetÍ£Ö¹ï¿½ï¿½ï¿½ï¿½-->
     </FaceAE>
     <HistAE>
 	           <!--over expo and under expo parameters-->
-               <OVEREXPO_2UnStable_TH>5000</OVEREXPO_2UnStable_TH>              <!--¹ýÆØÃæ»ý´óÓÚ´ËÖµ(x)Ê±£¬°Ù·Ö±ÈÎªx/51200£¬¿ªÊ¼µ÷ÕûÆØ¹â£¬¼õÉÙ¹ýÆØ£¬¼õÉÙ´ËÖµ»áÊ¹¹ýÆØ¿ØÖÆ¸üÑÏ¸ñ£¬»­Ãæ»áÆ«°µ-->
-               <OVEREXPO_2Stable_TH>4000</OVEREXPO_2Stable_TH>                  <!--¹ýÆØÃæ»ýÐ¡ÓÚµÈÓÚ´ËÖµ(x)Ê±£¬°Ù·Ö±ÈÎªx/51200£¬Í£Ö¹µ÷ÕûÆØ¹â£¬´ËÖµÓ¦¸úOVEREXPO_2UnStable_THÍ¬Ê±µ÷Õû£¬Ç÷ÊÆÏàÍ¬-->
-               <UNDEREXPO_2UnStable_TH>3000</UNDEREXPO_2UnStable_TH>            <!--Ç·ÆØÃæ»ý´óÓÚ´ËÖµ(x)Ê±£¬°Ù·Ö±ÈÎªx/51200£¬¿ªÊ¼µ÷ÕûÆØ¹â£¬¼õÉÙÇ·ÆØ£¬¼õÉÙ´ËÖµ»áÊ¹Ç·ÆØ¿ØÖÆ¸üÑÏ¸ñ£¬»­Ãæ»áÆ«ÁÁ-->
-               <UNDEREXPO_2Stable_TH>1500</UNDEREXPO_2Stable_TH>                <!--Ç·ÆØÃæ»ýÐ¡ÓÚµÈÓÚ´ËÖµ(x)Ê±£¬°Ù·Ö±ÈÎªx/51200£¬Í£Ö¹µ÷ÕûÆØ¹â£¬´ËÖµÓ¦¸úUNDEREXPO_2UnStable_THÍ¬Ê±µ÷Õû£¬Ç÷ÊÆÏàÍ¬-->
-               <EXPO_ISO_TH>400</EXPO_ISO_TH>                                   <!--µ±ISOÐ¡ÓÚµÈÓÚ´ËÖµÊ±£¬¹ýÆØÇ·ÆØµÄ¿ØÖÆ²ÎÊýÊ¹ÓÃÉÏÃæËÄ¸öÊýÖµ£¬´óÓÚ´ËÖµÊ±Ê¹ÓÃÏÂÃæËÄ¸öÊýÖµ£¨ºó×ºÓÐ_Dark£©-->
-               <OVEREXPO_2UnStable_TH_Dark>4000</OVEREXPO_2UnStable_TH_Dark>    <!--ÒÔÏÂËÄ¸ö²ÎÊýµÄÒâÒå¸úÉÏÃæËÄ¸ö²ÎÊýÏàÍ¬-->
+               <OVEREXPO_2UnStable_TH>5000</OVEREXPO_2UnStable_TH>              <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú´ï¿½Öµ(x)Ê±ï¿½ï¿½ï¿½Ù·Ö±ï¿½Îªx/51200ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½Ø¹â£¬ï¿½ï¿½ï¿½Ù¹ï¿½ï¿½Ø£ï¿½ï¿½ï¿½ï¿½Ù´ï¿½Öµï¿½ï¿½Ê¹ï¿½ï¿½ï¿½Ø¿ï¿½ï¿½Æ¸ï¿½ï¿½Ï¸ñ£¬»ï¿½ï¿½ï¿½ï¿½Æ«ï¿½ï¿½-->
+               <OVEREXPO_2Stable_TH>4000</OVEREXPO_2Stable_TH>                  <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½Úµï¿½ï¿½Ú´ï¿½Öµ(x)Ê±ï¿½ï¿½ï¿½Ù·Ö±ï¿½Îªx/51200ï¿½ï¿½Í£Ö¹ï¿½ï¿½ï¿½ï¿½ï¿½Ø¹â£¬ï¿½ï¿½ÖµÓ¦ï¿½ï¿½OVEREXPO_2UnStable_THÍ¬Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¬-->
+               <UNDEREXPO_2UnStable_TH>3000</UNDEREXPO_2UnStable_TH>            <!--Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú´ï¿½Öµ(x)Ê±ï¿½ï¿½ï¿½Ù·Ö±ï¿½Îªx/51200ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½Ø¹â£¬ï¿½ï¿½ï¿½ï¿½Ç·ï¿½Ø£ï¿½ï¿½ï¿½ï¿½Ù´ï¿½Öµï¿½ï¿½Ê¹Ç·ï¿½Ø¿ï¿½ï¿½Æ¸ï¿½ï¿½Ï¸ñ£¬»ï¿½ï¿½ï¿½ï¿½Æ«ï¿½ï¿½-->
+               <UNDEREXPO_2Stable_TH>1500</UNDEREXPO_2Stable_TH>                <!--Ç·ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½Úµï¿½ï¿½Ú´ï¿½Öµ(x)Ê±ï¿½ï¿½ï¿½Ù·Ö±ï¿½Îªx/51200ï¿½ï¿½Í£Ö¹ï¿½ï¿½ï¿½ï¿½ï¿½Ø¹â£¬ï¿½ï¿½ÖµÓ¦ï¿½ï¿½UNDEREXPO_2UnStable_THÍ¬Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¬-->
+               <EXPO_ISO_TH>400</EXPO_ISO_TH>                                   <!--ï¿½ï¿½ISOÐ¡ï¿½Úµï¿½ï¿½Ú´ï¿½ÖµÊ±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç·ï¿½ØµÄ¿ï¿½ï¿½Æ²ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½ï¿½Ú´ï¿½ÖµÊ±Ê¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½×ºï¿½ï¿½_Darkï¿½ï¿½-->
+               <OVEREXPO_2UnStable_TH_Dark>4000</OVEREXPO_2UnStable_TH_Dark>    <!--ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¬-->
                <OVEREXPO_2Stable_TH_Dark>2500</OVEREXPO_2Stable_TH_Dark>
                <UNDEREXPO_2UnStable_TH_Dark>3000</UNDEREXPO_2UnStable_TH_Dark>
                <UNDEREXPO_2Stable_TH_Dark>1500</UNDEREXPO_2Stable_TH_Dark>
-               <MULTIPLE>2</MULTIPLE>                                           <!--±ÈÀýÒò×Ó£¬Ò»°ã²»ÐèÐÞ¸Ä-->
-               <EMPTYBIN_2Stable>6</EMPTYBIN_2Stable>                           <!--µ±ÁÁ¶ÈÖ±·½Í¼ÓÒ¶Ë¿Õ°×µÄbin¸öÊýÐ¡ÓÚµÈÓÚ´ËÖµÊ±£¬Í£Ö¹µ÷ÕûÆØ¹â--> 
-               <EMPTYBIN_2UnStable>10</EMPTYBIN_2UnStable>                      <!--µ±ÁÁ¶ÈÖ±·½Í¼ÓÒ¶Ë¿Õ°×µÄbin¸öÊý´óÓÚ´ËÖµÊ±£¬¿ªÊ¼µ÷ÕûÆØ¹â£¬»­Ãæ±äÁÁ-->
+               <MULTIPLE>2</MULTIPLE>                                           <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó£ï¿½Ò»ï¿½ã²»ï¿½ï¿½ï¿½Þ¸ï¿½-->
+               <EMPTYBIN_2Stable>6</EMPTYBIN_2Stable>                           <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½Í¼ï¿½Ò¶Ë¿Õ°×µï¿½binï¿½ï¿½ï¿½ï¿½Ð¡ï¿½Úµï¿½ï¿½Ú´ï¿½ÖµÊ±ï¿½ï¿½Í£Ö¹ï¿½ï¿½ï¿½ï¿½ï¿½Ø¹ï¿½--> 
+               <EMPTYBIN_2UnStable>10</EMPTYBIN_2UnStable>                      <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½Í¼ï¿½Ò¶Ë¿Õ°×µï¿½binï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú´ï¿½ÖµÊ±ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½Ø¹â£¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½-->
                
 			   <!--default config parameters-->
-               <targetLowMin_Default>40</targetLowMin_Default>                  <!--low target×îÐ¡Öµ-->
-               <targetLowMax_Default>50</targetLowMax_Default>                  <!--low target×î´óÖµ-->
-               <targetHighMin_Default>40</targetHighMin_Default>                <!--hight target×îÐ¡Öµ-->
-               <targetHighMax_Default>50</targetHighMax_Default>                <!--hight target×î´óÖµ-->
+               <targetLowMin_Default>40</targetLowMin_Default>                  <!--low targetï¿½ï¿½Ð¡Öµ-->
+               <targetLowMax_Default>50</targetLowMax_Default>                  <!--low targetï¿½ï¿½ï¿½Öµ-->
+               <targetHighMin_Default>40</targetHighMin_Default>                <!--hight targetï¿½ï¿½Ð¡Öµ-->
+               <targetHighMax_Default>50</targetHighMax_Default>                <!--hight targetï¿½ï¿½ï¿½Öµ-->
                
 			   <!--night config parameters-->
                <targetLowMin_Night>35</targetLowMin_Night>                   
@@ -52,10 +52,10 @@
                <targetLowMax_NightLight>22</targetLowMax_NightLight>
                <targetHighMin_NightLight>20</targetHighMin_NightLight>
                <targetHighMax_NightLight>22</targetHighMax_NightLight>
-               <targetLow_NightLight>20</targetLow_NightLight>                   <!--nightlight³¡¾°ÏÂµÄÄ¬ÈÏlow target-->
-               <targetHigh_NightLight>20</targetHigh_NightLight>                 <!--nightlight³¡¾°ÏÂµÄÄ¬ÈÏhight target-->
+               <targetLow_NightLight>20</targetLow_NightLight>                   <!--nightlightï¿½ï¿½ï¿½ï¿½ï¿½Âµï¿½Ä¬ï¿½ï¿½low target-->
+               <targetHigh_NightLight>20</targetHigh_NightLight>                 <!--nightlightï¿½ï¿½ï¿½ï¿½ï¿½Âµï¿½Ä¬ï¿½ï¿½hight target-->
                
-			   <!--ÒÔÏÂ²ÎÊýÓÃÓÚÅÐ¶Ïµ±Ç°µÄ³¡¾°Àà±ð£¬Ò»°ã²»Ðèµ÷Õû-->
+			   <!--ï¿½ï¿½ï¿½Â²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶Ïµï¿½Ç°ï¿½Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ã²»ï¿½ï¿½ï¿½ï¿½ï¿½-->
 			    <!--is night parameters-->
                <LvDefault2Night>80</LvDefault2Night>                              
                <LvNight2Default>20</LvNight2Default>                              
